@@ -13,3 +13,6 @@
 ## GitHub Pages更新時
 このフォルダの中身をリポジトリのルートへ上書きアップロードしてください。
 `index.html`、`app.js`、`style.css`、`sw.js`、`manifest.json`、`update.json`、`data/timetable.js` を同じ階層に置きます。
+
+
+v2.1: bundled timetable is authoritative; stale localStorage timetable overrides removed; arrival time is secondary in the UI.
